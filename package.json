@@ -1,0 +1,29 @@
+{
+  "name": "windows-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "node --max_old_space_size=4096 node_modules/.bin/vue-cli-service serve --open",
+    "build": "vue-cli-service build && cp public/redirects.txt dist/_redirects"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "v-movable": "^0.3.2",
+    "vue": "^2.6.11",
+    "vue-draggable-resizable": "^2.3.0",
+    "vue-resizable": "^2.0.5",
+    "vue-router": "^3.2.0",
+    "vuedraggable": "^2.24.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.4.0",
+    "@vue/cli-plugin-router": "^4.4.0",
+    "@vue/cli-service": "^4.4.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

@@ -1,0 +1,1905 @@
+[{
+        "name": "tiffany",
+        "viewIndex": 0,
+        "active": true,
+        "imagePaths": [
+            "tiffany/image/01.jpg",
+            "tiffany/image/02.jpg",
+            "tiffany/image/tiffany.mp4"
+        ],
+        "views": [{
+            "windows": [{
+                    "videoPath": "sora/video/03_01_dropit.mp4",
+                    "openDelay": 0,
+                    "width": 234,
+                    "widthScale": 0.3,
+                    "height": 1000,
+                    "left": 0,
+                    "leftScale": 0.05,
+                    "top": 0,
+                    "topScale": 0,
+                    "videoWidth": 1750,
+                    "nextLink": "close",
+                    "fadeIn": 2
+                },
+                {
+                    "videoPath": "sora/video/03_01_dropit.mp4",
+                    "openDelay": 2000,
+                    "width": 234,
+                    "widthScale": 0.3,
+                    "height": 1000,
+                    "left": 0,
+                    "leftScale": 0.3,
+                    "top": 0,
+                    "topScale": 0,
+                    "videoWidth": 1750,
+                    "nextLink": "close",
+                    "fadeIn": 2
+                },
+                {
+                    "videoPath": "sora/video/03_01_dropit.mp4",
+                    "openDelay": 4000,
+                    "width": 0,
+                    "widthScale": 0.3,
+                    "height": 1000,
+                    "left": 0,
+                    "leftScale": 0.5,
+                    "top": 0,
+                    "topScale": 0,
+                    "videoWidth": 1750,
+                    "nextLink": "close",
+                    "fadeIn": 2
+                },
+                {
+                    "videoPath": "sora/video/03_01_dropit.mp4",
+                    "openDelay": 6000,
+                    "width": 125,
+                    "widthScale": 0.3,
+                    "height": 1000,
+                    "left": 0,
+                    "leftScale": 0.7,
+                    "top": 0,
+                    "topScale": 0,
+                    "videoWidth": 1750,
+                    "nextLink": "close",
+                    "fadeIn": 2
+                },
+                {
+                    "videoPath": "sora/video/03_01_dropit.mp4",
+                    "openDelay": 8000,
+                    "width": 125,
+                    "widthScale": 0.3,
+                    "height": 1000,
+                    "left": 0,
+                    "leftScale": 0.9,
+                    "top": 0,
+                    "topScale": 0,
+                    "videoWidth": 1750,
+                    "nextLink": "close",
+                    "fadeIn": 2
+                }
+            ]
+        }]
+    },
+    {
+        "name": "all",
+        "active": true,
+        "viewIndex": 0,
+        "imagePaths": [
+            "all/image/recessed.png"
+        ],
+        "views": [{
+            "windows": [{
+                    "videoPath": "sabrina/video/01_01_home.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.083,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "endTime": 10,
+                    "nextLink": "close"
+                },
+                {
+                    "videoPath": "desmond/video/04_02_pop.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.25,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "endTime": 10,
+                    "nextLink": "close"
+                },
+                {
+                    "videoPath": "donald/video/06_all.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.41,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "endTime": 10,
+                    "nextLink": "close"
+                },
+                {
+                    "videoPath": "jillian/video/03_03_hair.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.583,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "endTime": 10,
+                    "nextLink": "close"
+                },
+                {
+                    "videoPath": "donald/video/04_01_outside.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.75,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "endTime": 10,
+                    "nextLink": "close"
+                },
+                {
+                    "videoPath": "desmond/video/01_01_juststanding.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.916,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "endTime": 10,
+                    "nextLink": "close"
+                }
+            ]
+        }]
+    },
+    {
+        "name": "all",
+        "active": true,
+        "viewIndex": 0,
+        "imagePaths": [
+            "all/image/recessed.png"
+        ],
+        "views": [{
+            "windows": [{
+                    "videoPath": "jillian/video/heidi_selects/hair_3.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.083,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "nextLink": "close"
+                },
+                {
+                    "videoPath": "desmond/video/pop.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.25,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "nextLink": "close"
+                },
+                {
+                    "videoPath": "donald/video/spinning_1.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.41,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "nextLink": "close"
+                },
+                {
+                    "videoPath": "jillian/video/home.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.583,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "nextLink": "close"
+                },
+                {
+                    "videoPath": "donald/video/outside_3.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.75,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "nextLink": "close"
+                },
+                {
+                    "videoPath": "desmond/video/01.mp4",
+                    "width": 568,
+                    "widthScale": 0.14,
+                    "height": 180,
+                    "left": 0,
+                    "leftScale": 0.916,
+                    "top": 0,
+                    "topScale": 0.5,
+                    "videoWidth": 200,
+                    "nextLink": "close"
+                }
+            ]
+        }]
+    },
+    {
+        "name": "desmond",
+        "viewIndex": 0,
+        "active": true,
+        "imagePath": "desmond/image/Matailong Du National Portrait Gallery 2 black and whitejpg.jpg",
+        "imagePaths": [
+            "desmond/image/Matailong Du National Portrait Gallery 2 black and whitejpg.jpg",
+            "desmond/image/Desmond.gif"
+        ],
+        "views": [{
+                "windows": [{
+                        "videoPath": "desmond/video/02_top.mp4",
+                        "width": 180,
+                        "height": 180,
+                        "left": 300,
+                        "top": 400,
+                        "videoWidth": 180,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_top.mp4",
+                        "width": 180,
+                        "height": 180,
+                        "left": 500,
+                        "top": 400,
+                        "videoWidth": 180,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_top.mp4",
+                        "width": 180,
+                        "height": 180,
+                        "left": 700,
+                        "top": 400,
+                        "videoWidth": 180,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_top.mp4",
+                        "width": 180,
+                        "height": 180,
+                        "left": 900,
+                        "top": 400,
+                        "videoWidth": 180,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_top.mp4",
+                        "width": 180,
+                        "height": 180,
+                        "left": 1100,
+                        "top": 400,
+                        "videoWidth": 180,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_bottom.mp4",
+                        "width": 180,
+                        "height": 180,
+                        "left": 300,
+                        "top": 650,
+                        "videoWidth": 180,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_bottom.mp4",
+                        "width": 180,
+                        "height": 180,
+                        "left": 500,
+                        "top": 650,
+                        "videoWidth": 180,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_bottom.mp4",
+                        "width": 180,
+                        "height": 180,
+                        "left": 700,
+                        "top": 650,
+                        "videoWidth": 180,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_bottom.mp4",
+                        "width": 180,
+                        "height": 180,
+                        "left": 900,
+                        "top": 650,
+                        "videoWidth": 180,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_bottom.mp4",
+                        "width": 180,
+                        "height": 180,
+                        "left": 1100,
+                        "top": 650,
+                        "videoWidth": 180,
+                        "nextLink": "close"
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "desmond/video/01.mp4",
+                        "width": 500,
+                        "height": 281,
+                        "left": 0,
+                        "top": 0,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/01.mp4",
+                        "width": 500,
+                        "height": 281,
+                        "left": 550,
+                        "top": 281,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/01.mp4",
+                        "width": 500,
+                        "height": 281,
+                        "left": 1100,
+                        "top": 562,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                    "videoPath": "desmond/video/01.mp4",
+                    "width": 2000,
+                    "height": 1000,
+                    "left": 0,
+                    "top": 0,
+                    "videoWidth": 500,
+                    "nextLink": "close"
+                }]
+            },
+            {
+                "windows": [{
+                        "videoPath": "desmond/video/02_bottom.mp4",
+                        "width": 360,
+                        "height": 360,
+                        "left": 100,
+                        "top": 100,
+                        "videoWidth": 540,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_top.mp4",
+                        "width": 360,
+                        "height": 360,
+                        "left": 500,
+                        "top": 100,
+                        "videoWidth": 540,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_top.mp4",
+                        "width": 360,
+                        "height": 360,
+                        "left": 100,
+                        "top": 600,
+                        "videoWidth": 540,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "desmond/video/02_bottom.mp4",
+                        "width": 360,
+                        "height": 360,
+                        "left": 500,
+                        "top": 600,
+                        "videoWidth": 540,
+                        "nextLink": "desmond,1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "donald",
+        "viewIndex": 0,
+        "active": true,
+        "imagePath": "donald/image/DonaldLee_1_TW Collins.jpg",
+        "imagePaths": [
+            "donald/image/DonaldLee_1_TW Collins.jpg",
+            "donald/image/donald_ondisplay.gif"
+        ],
+        "views": [{
+                "windows": [{
+                        "videoPath": "donald/video/01_1.mp4",
+                        "width": 1920,
+                        "height": 1080,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 1920,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 28000,
+                        "width": 250,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.1,
+                        "top": 0,
+                        "topScale": 0.25,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 29000,
+                        "width": 250,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.3,
+                        "top": 0,
+                        "topScale": 0.25,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 30000,
+                        "width": 250,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.25,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 31000,
+                        "width": 250,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.7,
+                        "top": 0,
+                        "topScale": 0.25,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 32000,
+                        "width": 250,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.9,
+                        "top": 0,
+                        "topScale": 0.25,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "donald/video/01_1.mp4",
+                        "width": 1920,
+                        "height": 1080,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 1920,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 26000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.125,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 27000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.375,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 28000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.625,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 29000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.875,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 30000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.125,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 31000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.375,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 32000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.625,
+                        "top": 0,
+                        "topScale": 0.55,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 33000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.875,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 34000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.125,
+                        "top": 0,
+                        "topScale": 0.85,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 35000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.375,
+                        "top": 0,
+                        "topScale": 0.85,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 36000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.625,
+                        "top": 0,
+                        "topScale": 0.85,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 37000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.875,
+                        "top": 0,
+                        "topScale": 0.85,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "donald/video/01_1.mp4",
+                        "width": 1920,
+                        "height": 1080,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 1920,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 23000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.125,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 24000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.375,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 25000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.625,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 26000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.875,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 27000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.25,
+                        "top": 0,
+                        "topScale": 0.35,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 28000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.35,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 29000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.75,
+                        "top": 0,
+                        "topScale": 0.35,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 30000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.125,
+                        "top": 0,
+                        "topScale": 0.55,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 31000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.375,
+                        "top": 0,
+                        "topScale": 0.55,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 32000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.625,
+                        "top": 0,
+                        "topScale": 0.55,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 33000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.875,
+                        "top": 0,
+                        "topScale": 0.55,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 34000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.25,
+                        "top": 0,
+                        "topScale": 0.75,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 35000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.75,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 36000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.75,
+                        "top": 0,
+                        "topScale": 0.75,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "donald/video/01_1.mp4",
+                        "width": 1920,
+                        "height": 1080,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 1920,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 23000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.125,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 24000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.375,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 25000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.625,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 26000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.875,
+                        "top": 0,
+                        "topScale": 0.15,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 27000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.25,
+                        "top": 0,
+                        "topScale": 0.35,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 28000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.35,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 29000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.75,
+                        "top": 0,
+                        "topScale": 0.35,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 30000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.125,
+                        "top": 0,
+                        "topScale": 0.55,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 31000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.375,
+                        "top": 0,
+                        "topScale": 0.55,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 32000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.625,
+                        "top": 0,
+                        "topScale": 0.55,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 33000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.875,
+                        "top": 0,
+                        "topScale": 0.55,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 34000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.25,
+                        "top": 0,
+                        "topScale": 0.75,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 35000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.75,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/arms.mp4",
+                        "openDelay": 36000,
+                        "width": 300,
+                        "height": 216,
+                        "left": 0,
+                        "leftScale": 0.75,
+                        "top": 0,
+                        "topScale": 0.75,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "donald/video/01_1.mp4",
+                        "width": 1920,
+                        "height": 1080,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 1920,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 4000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.1,
+                        "top": 0,
+                        "topScale": 0.1,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 5000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.3,
+                        "top": 0,
+                        "topScale": 0.25,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 6000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.15,
+                        "top": 0,
+                        "topScale": 0.45,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 7000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.6,
+                        "top": 0,
+                        "topScale": 0.39,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 8000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.79,
+                        "top": 0,
+                        "topScale": 0.58,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 9000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.82,
+                        "top": 0,
+                        "topScale": 0.32,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_2.mp4",
+                        "openDelay": 40000,
+                        "width": 808,
+                        "height": 472,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 768,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 5
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "donald/video/01_1.mp4",
+                        "width": 1920,
+                        "height": 1080,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 1920,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 2000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.1,
+                        "top": 0,
+                        "topScale": 0.1,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 2000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.3,
+                        "top": 0,
+                        "topScale": 0.25,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 4000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.15,
+                        "top": 0,
+                        "topScale": 0.45,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 6000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.43,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 8000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.6,
+                        "top": 0,
+                        "topScale": 0.39,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 10000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.59,
+                        "top": 0,
+                        "topScale": 0.69,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 12000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.79,
+                        "top": 0,
+                        "topScale": 0.58,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 14000,
+                        "width": 404,
+                        "height": 236,
+                        "left": 0,
+                        "leftScale": 0.89,
+                        "top": 0,
+                        "topScale": 0.85,
+                        "videoWidth": 384,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "donald/video/01_1.mp4",
+                        "width": 720,
+                        "widthScale": 0.25,
+                        "height": 500,
+                        "left": 0,
+                        "leftScale": 0.1,
+                        "top": 0,
+                        "topScale": 0.1,
+                        "videoWidth": 685,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 5000,
+                        "width": 720,
+                        "height": 405,
+                        "left": 0,
+                        "leftScale": 0.9,
+                        "top": 0,
+                        "topScale": 0.9,
+                        "videoWidth": 700,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 10000,
+                        "width": 960,
+                        "height": 540,
+                        "left": 0,
+                        "leftScale": 0.1,
+                        "top": 0,
+                        "topScale": 0.9,
+                        "videoWidth": 875,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/01_1.mp4",
+                        "openDelay": 15000,
+                        "width": 960,
+                        "height": 540,
+                        "left": 0,
+                        "leftScale": 0.9,
+                        "top": 0,
+                        "topScale": 0.1,
+                        "videoWidth": 875,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/01_2.mp4",
+                        "openDelay": 40000,
+                        "width": 960,
+                        "height": 540,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 875,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 5
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "donald/video/01_1.mp4",
+                        "width": 1920,
+                        "height": 1080,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 1920,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1_b.mp4",
+                        "openDelay": 15000,
+                        "width": 400,
+                        "height": 189,
+                        "left": 0,
+                        "leftScale": 0.15,
+                        "top": 0,
+                        "topScale": 0.4,
+                        "videoWidth": 500,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1_b.mp4",
+                        "openDelay": 22000,
+                        "width": 400,
+                        "height": 189,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.4,
+                        "videoWidth": 500,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_1_b.mp4",
+                        "openDelay": 28000,
+                        "width": 400,
+                        "height": 189,
+                        "left": 0,
+                        "leftScale": 0.85,
+                        "top": 0,
+                        "topScale": 0.4,
+                        "videoWidth": 500,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "donald/video/01_1.mp4",
+                        "width": 1920,
+                        "height": 1080,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 1920,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 2
+                    },
+                    {
+                        "videoPath": "donald/video/01_2.mp4",
+                        "openDelay": 33000,
+                        "width": 1920,
+                        "height": 1080,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 1920,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 5
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "donald/video/01_1.mp4",
+                        "width": 960,
+                        "height": 540,
+                        "left": 0,
+                        "leftScale": 0.1,
+                        "top": 0,
+                        "topScale": 0.1,
+                        "videoWidth": 875,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 0
+                    },
+                    {
+                        "videoPath": "donald/video/01_2.mp4",
+                        "openDelay": 17500,
+                        "width": 960,
+                        "height": 540,
+                        "left": 0,
+                        "leftScale": 0.89,
+                        "top": 0,
+                        "topScale": 0.86,
+                        "videoWidth": 875,
+                        "nextLink": "close",
+                        "fadeOut": 5,
+                        "fadeIn": 5
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                    "videoPath": "donald/video/02_short.mp4",
+                    "width": 1106,
+                    "height": 604,
+                    "left": 200,
+                    "top": 200,
+                    "videoWidth": 2106,
+                    "nextLink": "donald, 1"
+                }]
+            },
+            {
+                "windows": [{
+                    "videoPath": "donald/video/03_short.mp4",
+                    "width": 1106,
+                    "height": 604,
+                    "left": 200,
+                    "top": 200,
+                    "videoWidth": 2106,
+                    "nextLink": "donald, 2"
+                }]
+            },
+            {
+                "windows": [{
+                    "videoPath": "donald/video/04_short.mp4",
+                    "width": 1106,
+                    "height": 604,
+                    "left": 200,
+                    "top": 200,
+                    "videoWidth": 2106,
+                    "nextLink": "donald, 3"
+                }]
+            },
+            {
+                "windows": [{
+                    "videoPath": "donald/video/Donald.mp4",
+                    "width": 1106,
+                    "height": 604,
+                    "left": 200,
+                    "top": 200,
+                    "videoWidth": 2106,
+                    "nextLink": "close"
+                }]
+            }
+        ]
+    },
+    {
+        "name": "meredith",
+        "active": true,
+        "videoPath": "meredith/video/Meredith.mp4",
+        "imagePath": "meredith/image/MeredithFages_1_Annette Kolzow.jpg",
+        "width": 500,
+        "height": 300,
+        "left": 200,
+        "top": 600,
+        "videoWidth": 600
+    },
+    {
+        "name": "jillian",
+        "active": true,
+        "viewIndex": 0,
+        "imagePath": "jillian/image/JillianHollis_1_Bhagirath Iyer.jpg",
+        "imagePaths": [
+            "jillian/image/JillianHollis_1_Bhagirath Iyer.jpg",
+            "jillian/image/Jillian Hollis by Darial Sneed.jpg"
+        ],
+        "views": [{
+                "windows": [{
+                        "videoPath": "jillian/video/03.mp4",
+                        "width": 300,
+                        "widthScale": 0.8,
+                        "height": 700,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 1000,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/03.mp4",
+                        "openDelay": 12000,
+                        "width": 300,
+                        "widthScale": 0.16,
+                        "height": 200,
+                        "left": 0,
+                        "leftScale": 0.1,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/03.mp4",
+                        "width": 300,
+                        "openDelay": 8000,
+                        "widthScale": 0.16,
+                        "height": 200,
+                        "left": 0,
+                        "leftScale": 0.3,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/03.mp4",
+                        "openDelay": 4000,
+                        "width": 300,
+                        "widthScale": 0.16,
+                        "height": 200,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/03.mp4",
+                        "openDelay": 8000,
+                        "width": 300,
+                        "widthScale": 0.16,
+                        "height": 200,
+                        "left": 0,
+                        "leftScale": 0.7,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/03.mp4",
+                        "openDelay": 12000,
+                        "width": 300,
+                        "widthScale": 0.16,
+                        "height": 200,
+                        "left": 0,
+                        "leftScale": 0.9,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "jillian/video/movinginslowmotionoutsidebeautifully.mp4",
+                        "width": 800,
+                        "height": 600,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 700,
+                        "videoWidthScale": 0.6,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/02.mp4",
+                        "width": 300,
+                        "height": 250,
+                        "left": 0,
+                        "leftScale": 0.15,
+                        "top": 0,
+                        "videoWidth": 200,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/02.mp4",
+                        "width": 300,
+                        "height": 250,
+                        "left": 0,
+                        "leftScale": 0.85,
+                        "top": 0,
+                        "videoWidth": 200,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/02.mp4",
+                        "width": 300,
+                        "height": 250,
+                        "left": 0,
+                        "leftScale": 0.15,
+                        "top": 0,
+                        "topScale": 0.75,
+                        "videoWidth": 200,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/02.mp4",
+                        "width": 300,
+                        "height": 250,
+                        "left": 0,
+                        "leftScale": 0.85,
+                        "top": 0,
+                        "topScale": 0.75,
+                        "videoWidth": 200,
+                        "nextLink": "close"
+                    }
+                ]
+            },
+            {
+                "windows": [{
+                        "videoPath": "jillian/video/breathing_1.mp4",
+                        "width": 300,
+                        "widthScale": 0.16,
+                        "height": 200,
+                        "left": 0,
+                        "leftScale": 0.1,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/breathing_2.mp4",
+                        "width": 300,
+                        "widthScale": 0.16,
+                        "height": 200,
+                        "left": 0,
+                        "leftScale": 0.3,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/breathing_3.mp4",
+                        "width": 300,
+                        "widthScale": 0.16,
+                        "height": 200,
+                        "left": 0,
+                        "leftScale": 0.5,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/breathing_4.mp4",
+                        "width": 300,
+                        "widthScale": 0.16,
+                        "height": 200,
+                        "left": 0,
+                        "leftScale": 0.7,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    },
+                    {
+                        "videoPath": "jillian/video/breathing_5.mp4",
+                        "width": 300,
+                        "widthScale": 0.16,
+                        "height": 200,
+                        "left": 0,
+                        "leftScale": 0.9,
+                        "top": 0,
+                        "topScale": 0.5,
+                        "videoWidth": 400,
+                        "nextLink": "close"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "heidi",
+        "active": true,
+        "viewIndex": 0,
+        "imagePath": "heidi/image/Heidi.gif",
+        "imagePaths": [
+            "heidi/image/Heidi.gif",
+            "heidi/image/01.jpg"
+        ],
+        "views": [{
+            "windows": [{
+                    "videoPath": "jillian/video/01.mp4",
+                    "width": 800,
+                    "height": 604,
+                    "left": 0,
+                    "top": 0,
+                    "videoWidth": 500,
+                    "nextLink": "donald, 1"
+                },
+                {
+                    "videoPath": "jillian/video/02.mp4",
+                    "width": 800,
+                    "height": 604,
+                    "left": 800,
+                    "top": 500,
+                    "videoWidth": 500,
+                    "nextLink": "donald, 1"
+                }
+            ]
+        }]
+    },
+    {
+        "name": "tiffany",
+        "active": true,
+        "viewIndex": 0,
+        "imagePath": "tiffany/image/tiffany.gif",
+        "imagePaths": [
+            "tiffany/image/tiffany.gif"
+        ],
+        "views": [{
+            "windows": [{
+                    "videoPath": "jillian/video/01.mp4",
+                    "width": 800,
+                    "height": 604,
+                    "left": 0,
+                    "top": 0,
+                    "videoWidth": 500,
+                    "nextLink": "donald, 1"
+                },
+                {
+                    "videoPath": "jillian/video/02.mp4",
+                    "width": 800,
+                    "height": 604,
+                    "left": 800,
+                    "top": 500,
+                    "videoWidth": 500,
+                    "nextLink": "donald, 1"
+                }
+            ]
+        }]
+    }
+]
