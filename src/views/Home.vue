@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home" v-if="correctPassword">
     <Main />
       <transition name="fade">
 
@@ -35,9 +35,28 @@ export default {
   data() {
     return {
       showIntro: true,
-      showInstructions: false
+      showInstructions: false,
+      correctPassword: false
     };
   },
+  mounted() {
+    let pw = prompt("Please enter the password", "");
+
+    if (pw=="Recessed2022") {
+      console.log('YOU DID IT');
+      this.correctPassword = true;
+    } else {
+      console.log('FAIL');
+      this.correctPassword = false;
+    }
+
+    // if (person == null || person == "") {
+    //   text = "User cancelled the prompt.";
+    // } else {
+    //   text = "Hello " + person + "! How are you today?";
+    //   console.log(text);
+    // }
+      },
   methods: {
     onEnter() {
       this.showIntro = false;
