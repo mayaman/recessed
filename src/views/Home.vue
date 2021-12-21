@@ -48,7 +48,7 @@ export default {
   mounted() {
     let pw = prompt("Please enter the password", "");
 
-    if (pw == "Recessed2022") {
+    if (pw == "recessedonline") {
       console.log("YOU DID IT");
       this.correctPassword = true;
     } else {
