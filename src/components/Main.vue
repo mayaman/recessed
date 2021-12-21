@@ -7,15 +7,9 @@
         v-for="(thumbnail, index) in dancer.imagePaths"
         v-bind:key="thumbnail"
       >
-        <movable
-          @start="startMoving()"
-          @move="whileMoving(dancer['name'] + index)"
-          @complete="doneMoving(dancer, dancer['name'] + index)"
-          class="testmove"
-        >
           <button
+           @click="doneMoving(dancer, dancer['name'] + index)"
             aria-label="Open popup window"
-            @mouseleave="goodbyeMouse(dancer['name'] + index)"
           >
             <Window
               :ref="dancer['name'] + index"
@@ -29,7 +23,6 @@
               :maxCellHeight="maxCellHeight"
             />
           </button>
-        </movable>
       </div>
     </div>
   </div>
@@ -108,7 +101,7 @@ export default {
         // Need to fade
       }
       this.moving = false;
-      document.getElementById("dancer-" + name).classList.remove("moving");
+      // document.getElementById("dancer-" + name).classList.remove("moving");
 
       this.movingTime = 0;
     },
