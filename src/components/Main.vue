@@ -316,6 +316,7 @@ button {
 .window:hover {
   cursor: pointer;
   transition: 0.5s ease;
-  filter: drop-shadow(0 0 15px blue);
+  filter: drop-shadow(0 0 7px blue);
+  /* transform: scale(1.11); */
 }
 </style>

@@ -42,19 +42,19 @@ export default {
     return {
       showIntro: true,
       showInstructions: false,
-      correctPassword: false,
+      correctPassword: true,
     };
   },
   mounted() {
-    let pw = prompt("Please enter the password", "");
+    // let pw = prompt("Please enter the password", "");
 
-    if (pw == "recessedonline") {
-      console.log("YOU DID IT");
-      this.correctPassword = true;
-    } else {
-      console.log("FAIL");
-      this.correctPassword = false;
-    }
+    // if (pw == "recessedonline") {
+    //   console.log("YOU DID IT");
+    //   this.correctPassword = true;
+    // } else {
+    //   console.log("FAIL");
+    //   this.correctPassword = false;
+    // }
 
     // if (person == null || person == "") {
     //   text = "User cancelled the prompt.";
