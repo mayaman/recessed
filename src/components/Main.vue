@@ -7,22 +7,22 @@
         v-for="(thumbnail, index) in dancer.imagePaths"
         v-bind:key="thumbnail"
       >
-          <button
-           @click="doneMoving(dancer, dancer['name'] + index)"
-            aria-label="Open popup window"
-          >
-            <Window
-              :ref="dancer['name'] + index"
-              class="window"
-              :id="'dancer-' + dancer['name'] + index"
-              :active="dancer['active']"
-              :name="dancer['name']"
-              :index="index"
-              :imagePath="thumbnail"
-              :maxCellWidth="maxCellWidth"
-              :maxCellHeight="maxCellHeight"
-            />
-          </button>
+        <button
+          @click="doneMoving(dancer, dancer['name'] + index)"
+          aria-label="Open popup window"
+        >
+          <Window
+            :ref="dancer['name'] + index"
+            class="window"
+            :id="'dancer-' + dancer['name'] + index"
+            :active="dancer['active']"
+            :name="dancer['name']"
+            :index="index"
+            :imagePath="thumbnail"
+            :maxCellWidth="maxCellWidth"
+            :maxCellHeight="maxCellHeight"
+          />
+        </button>
       </div>
     </div>
   </div>
@@ -305,7 +305,7 @@ button {
 .window {
   padding: 0px;
   margin: 0px;
-  /* box-shadow: 1px 1px 6px #555 inset; */
+  border: 2px solid #ffffff00;
 }
 
 .moving {
@@ -315,8 +315,8 @@ button {
 .hover,
 .window:hover {
   cursor: pointer;
-  transition: 0.5s ease;
-  filter: drop-shadow(0 0 7px blue);
-  /* transform: scale(1.11); */
+  /* transition: 0.5s ease; */
+  /* filter: drop-shadow(0 0 5.55px #6289FB); */
+  border-color: #6289FB;
 }
 </style>

@@ -52,7 +52,7 @@ h1.title {
 .intro-container {
   width: 100vw;
   height: 100vh;
-  background: #fffffff5;
+  background: #ffffff;
   /* background: white; */
   color: black;
   position: absolute;
@@ -115,7 +115,7 @@ button.enter {
 
 button.enter:hover,
 button.instructions:hover {
-  color: blue;
+  color: #6289FB;
 }
 
 button.instructions {

@@ -110,7 +110,7 @@ button.enter {
 
 button.enter:hover,
 button.instructions:hover {
-  color: blue;
+  color: #6289FB;
 }
 
 button.instructions {

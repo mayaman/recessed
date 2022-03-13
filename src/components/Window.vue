@@ -91,12 +91,6 @@ export default {
   /* transition: 0.5s ease; */
 }
 
-.dancerImage:hover {
-  /* opacity: 1;
-  transform: scale(1.25);
-  transition: 0.5s ease; */
-  /* filter: drop-shadow(0 0 15px blue); */
-}
 
 .fade-enter-active,
 .fade-leave-active {
