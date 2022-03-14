@@ -272,15 +272,15 @@ button {
   cursor: pointer;
   /* transition: 0.5s ease; */
   -webkit-appearance: none !important;
-  -webkit-box-shadow: 0px 0px 5px #6289fb !important;
-  box-shadow: 0px 0px 5px 5px #6289fb !important;
+  -webkit-box-shadow: 0px 0px 1px #6289fb !important;
+  box-shadow: 0px 0px 15px 1px #6289fb !important;
   display: block;
 
   /* -webkit-appearance: none !important;
   border-radius: 5px !important;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0) !important;
   -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0) !important; */
-  filter: drop-shadow(0 0 5px #6289fb);
+  filter: drop-shadow(0 0 1px #6289fb);
   /* border-color: #6289FB; */
 }
 </style>
