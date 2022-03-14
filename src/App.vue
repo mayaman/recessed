@@ -34,6 +34,6 @@ a:hover {
 
 ::selection {
   color: white;
-  background: blue;
+  background: #6289FB;
 }
 </style>

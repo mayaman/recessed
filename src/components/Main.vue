@@ -305,7 +305,7 @@ button {
 .window {
   padding: 0px;
   margin: 0px;
-  border: 2px solid #ffffff00;
+  border: 1px solid #ffffff00;
 }
 
 .moving {
@@ -316,7 +316,7 @@ button {
 .window:hover {
   cursor: pointer;
   /* transition: 0.5s ease; */
-  /* filter: drop-shadow(0 0 5.55px #6289FB); */
+  filter: drop-shadow(0 0 5.55px #6289FB);
   border-color: #6289FB;
 }
 </style>
