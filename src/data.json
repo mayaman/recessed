@@ -1,6 +1,6 @@
 [{
         "name": "desmond",
-        "viewIndex": 1,
+        "viewIndex": 2,
         "active": true,
         "imagePaths": [
             "desmond/image/01.jpg",
@@ -1062,7 +1062,7 @@
     },
     {
         "name": "sabrina",
-        "viewIndex": 0,
+        "viewIndex": 1,
         "active": true,
         "imagePaths": [
             "sabrina/image/01.jpg",
@@ -1273,7 +1273,7 @@
     },
     {
         "name": "sora",
-        "viewIndex": 0,
+        "viewIndex": 1,
         "active": true,
         "imagePaths": [
             "sora/image/01.jpg",
