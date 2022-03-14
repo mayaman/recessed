@@ -141,45 +141,11 @@ export default {
 
             newWidth = 80;
             newHeight = 1;
-            // if (newHeight < 100) {
-            //   newHeight = newHeight + 100;
-            // }
-
-            // newWidth = (newWidth / window.innerWidth) * 70;
-            // newHeight = (newHeight / window.innerHeight) * 70;
-
-            // let leftPos =
-            //   row * (window.innerWidth / this.numRows) +
-            //   (colWidth / 2 - newWidth);
-
-            // let topPos =
-            //   col * (window.innerHeight / this.numCols) +
-            //   (rowHeight / 2 - newWidth / 2);
 
             let leftPos = (row / this.numRows) * 100 + 2;
-
-            // row * (window.innerWidth / this.numRows) +
-            //   (colWidth / 2 - newWidth);
             let topPos = (col / this.numCols) * 100 + 3;
             leftPos = Math.random() * 90;
             topPos = Math.random() * 81 + 4;
-            // let topPos  +=
-            //   col * (window.innerHeight / this.numCols) +
-            //   (rowHeight / 2 - newWidth / 2);
-
-            // let leftPos =
-            //   (Math.random() - (newWidth * 1.3) / window.innerWidth) * 100;
-
-            // if (leftPos < 0) {
-            //   leftPos = 1;
-            // }
-
-            // let topPos =
-            //   (Math.random() - (newWidth * 1.3) / window.innerHeight) * 100;
-
-            // if (topPos < 0) {
-            //   topPos = 1;
-            // }
 
             windowElt.style.left = leftPos + "%";
             windowElt.style.top = topPos + "%";
@@ -193,14 +159,6 @@ export default {
     },
     tick() {
       this.mutate();
-      // this.data.forEach((dancer) => {
-      //   const randomNum = Math.random();
-      //   if (randomNum > 0.5) {
-      //     dancer.active = true;
-      //   } else {
-      //     dancer.active = false;
-      //   }
-      // });
     },
     mutate() {
       // this.data[0].active = !this.data[0].active;
@@ -299,13 +257,10 @@ button {
   position: absolute;
 }
 
-.window-container:hover {
-}
-
 .window {
   padding: 0px;
   margin: 0px;
-  border: 1px solid #ffffff00;
+  /* border: 1px solid #ffffff00; */
 }
 
 .moving {
@@ -316,7 +271,16 @@ button {
 .window:hover {
   cursor: pointer;
   /* transition: 0.5s ease; */
-  filter: drop-shadow(0 0 5.55px #6289FB);
-  border-color: #6289FB;
+  -webkit-appearance: none !important;
+  -webkit-box-shadow: 0px 0px 5px #6289fb !important;
+  box-shadow: 0px 0px 5px 5px #6289fb !important;
+  display: block;
+
+  /* -webkit-appearance: none !important;
+  border-radius: 5px !important;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0) !important;
+  -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0) !important; */
+  filter: drop-shadow(0 0 5px #6289fb);
+  /* border-color: #6289FB; */
 }
 </style>
